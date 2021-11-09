@@ -9,4 +9,5 @@ int main(){
         string S+=ch;
     }
     cout<<"String is: "<<S;
+    // just adding a new comment
 }
